@@ -1,2 +1,2 @@
-# Crowd-Counting-System
+# Capstone Project 
 AI based crowd counting system using YOLOv8
